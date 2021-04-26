@@ -1,0 +1,97 @@
+
+
+.container{
+    margin: 150px;
+}
+
+
+.cards h1, h2, h3{
+    text-align: center;
+}
+.cards h4{
+    padding-left: 15px;
+}
+
+.header{
+    border: 5px solid black;
+    border-radius: 3px;
+    margin-bottom: 5px;
+    vertical-align: top;
+    background: #8e9eab; /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #8e9eab, #eef2f3); /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #8e9eab, #eef2f3);
+
+}
+
+.contact{
+    display: flex;
+    justify-content: space-evenly;
+    color: white;
+    background: black;
+}
+
+.prof_card{
+    border: 5px solid black;
+    margin-bottom: 5px;
+    cursor: pointer;
+    background: #8e9eab; /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #8e9eab, #eef2f3); /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #8e9eab, #eef2f3);
+
+}
+
+.edu_card{
+    border: 5px solid black;
+    margin-bottom: 5px;
+    background: #8e9eab; /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #8e9eab, #eef2f3); /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #8e9eab, #eef2f3);
+
+}
+
+.job_card{
+    border: 5px solid black;
+    margin-bottom: 5px;
+    background: #8e9eab; /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #8e9eab, #eef2f3); /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #8e9eab, #eef2f3);
+
+}
+
+.skill_card{
+    border: 5px solid black;
+    margin-bottom: 5px;
+    background: #8e9eab; /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #8e9eab, #eef2f3); /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #8e9eab, #eef2f3);
+
+}
+
+.proj_card{
+    border: 5px solid black;
+    margin-bottom: 5px;
+    background: black;
+    color: white;
+}
+
+.contact{
+    border: 5px solid black;
+    margin-bottom: 5px;
+}
+img{
+    border-radius: 50%;
+    filter: grayscale(100%);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:8em; height:12em;
+}
+.proj_span{
+    padding-bottom: 20px;
+    background: black;
+    display: flex;
+    justify-content: space-evenly; 
+}
+a{
+    color: white;
+}
