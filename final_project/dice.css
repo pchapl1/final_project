@@ -1,0 +1,26 @@
+#header{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+#dice_num{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+.btn-group{
+    margin-top: 10px;
+    display: inline;
+}
+.column {
+    float: left;
+    width: 50%;
+    padding: 5px;
+  }
+  
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
