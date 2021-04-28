@@ -12,7 +12,7 @@
     padding-left: 15px;
 }
 
-.header{
+.subheader{
     border: 5px solid black;
     border-radius: 3px;
     margin-bottom: 5px;
@@ -22,8 +22,8 @@
     background: linear-gradient(to right, #8e9eab, #eef2f3);
 
 }
-
-.contact{
+/* footer */
+.footer{
     display: flex;
     justify-content: space-evenly;
     color: white;
@@ -67,7 +67,7 @@
 
 }
 
-.proj_card{
+.header{
     border: 5px solid black;
     margin-bottom: 5px;
     background: black;
