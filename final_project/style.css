@@ -87,6 +87,7 @@
 
 .header{
     border: 5px solid black;
+    margin-top: 0%;
     margin-bottom: 5px;
     background: black;
     color: white;
